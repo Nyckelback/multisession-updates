@@ -1,0 +1,9 @@
+{
+  "addons": {
+    "multisession@nyckmail.com": {
+      "updates": [
+        { "version": "6.1.25", "update_link": "https://github.com/Nyckelback/multisession-updates/releases/download/v6.1.25/MultiSession-6.1.25.xpi", "update_hash": "sha256:PENDIENTE-lo-completa-release.sh-al-firmar" }
+      ]
+    }
+  }
+}

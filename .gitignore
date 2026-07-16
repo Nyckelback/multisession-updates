@@ -1,3 +1,4 @@
 dist/
 *.sh
-GUIA-JP-lo-minimo.md
+GUIA-*.md
+.amo-keys

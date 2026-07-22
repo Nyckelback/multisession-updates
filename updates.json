@@ -2,7 +2,7 @@
   "addons": {
     "multisession@nyckmail.com": {
       "updates": [
-        { "version": "6.1.48", "update_link": "https://github.com/Nyckelback/multisession-updates/releases/download/v6.1.48/MultiSession-6.1.48.xpi", "update_hash": "sha256:1a81aadd2d32b9ae4ccb59b5b8462447bb83360d8b6f03b47fe4f7c774009eca" }
+        { "version": "6.1.49", "update_link": "https://github.com/Nyckelback/multisession-updates/releases/download/v6.1.49/MultiSession-6.1.49.xpi", "update_hash": "sha256:fe61749a4e04084fc292221e9671b8915231c6bab8708a649159ceb25e6f560a" }
       ]
     }
   }
